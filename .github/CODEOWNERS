@@ -1,0 +1,11 @@
+* @JJAEMINI
+
+/src/chaesic/*/experiments/ @chaesic
+/src/JJAEMINI/*/experiments/ @JJAEMINI  
+/src/JunSeokHuh/*/experiments/ @JunSeokHuh
+/src/seunghee1013/*/experiments/ @seunghee1013
+
+/src/chaesic/report/ @chaesic
+/src/JJAEMINI/report/ @JJAEMINI
+/src/JunSeokHuh/report/ @JunSeokHuh
+/src/seunghee1013/report/ @seunghee1013
