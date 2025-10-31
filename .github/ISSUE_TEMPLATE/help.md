@@ -1,7 +1,7 @@
 ---
 name: Help Request
 about: 오류나 문제 상황에 대한 도움 요청
-title: '[H] example'
+title: '[Help] example'
 labels: help
 assignees: JJAEMINI
 ---

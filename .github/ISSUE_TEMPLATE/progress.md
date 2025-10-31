@@ -1,7 +1,7 @@
 ---
 name: Weekly Report  
 about: 주간 진행 상황 공유
-title: '[P] example'
+title: '[Progress] example'
 labels: progress
 ---
 

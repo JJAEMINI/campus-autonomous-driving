@@ -1,7 +1,7 @@
 ---
 name: Question
 about: 궁금한 점이나 질문
-title: '[Q] example'
+title: '[Question] example'
 labels: question
 assignees: JJAEMINI
 ---
